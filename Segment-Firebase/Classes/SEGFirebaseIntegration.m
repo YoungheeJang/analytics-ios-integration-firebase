@@ -30,8 +30,8 @@
             return self;
         }
 
-        [FIRApp configure];
-        SEGLog(@"[FIRApp Configure]");
+//        [FIRApp configure];
+//        SEGLog(@"[FIRApp Configure]");
     }
     return self;
 }
